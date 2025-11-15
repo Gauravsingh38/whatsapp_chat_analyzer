@@ -45,8 +45,8 @@ def home():
     """)
 
     # Add images
-    image_path1 = r"C:\Users\gs828\FINAL_PROJECTS\whatsapp_chat_analyzer\static\Chat-Analyzer-Report-for-Whatsapp.avif"
-    image_path = r"C:\Users\gs828\FINAL_PROJECTS\whatsapp_chat_analyzer\static\whatsapp_design.png"
+    image_path1 = "static/Chat-Analyzer-Report-for-Whatsapp.avif"
+    image_path  = "static/whatsapp_design.png"
     st.image(image_path, caption="WhatsApp Chat Analysis", width=400)
     st.image(image_path1, caption="WhatsApp Chat Analysis", width=400)
 
