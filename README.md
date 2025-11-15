@@ -73,7 +73,7 @@ Built using **Python**, **pandas**, **Streamlit**, **matplotlib**, **seaborn**, 
 
 ## 📊 Project Flowchart
 
-![Project Flowchart](flowchart.png)
+![Project Flowchart](static/flowchart.png)
 *Visual representation of the WhatsApp Chat Analyzer workflow.*
 
 
@@ -125,10 +125,10 @@ From WhatsApp → More → Export Chat → Without Media → Save `.txt` file.
 
 ## 🖥 App Images
 
-![Image 1](img1.png)
-![Image 2](img2.png)
-![Image 3](img3.png)
-![Image 4](img4.png)
+![Image 1](static/img1.png)
+![Image 2](static/img2.png)
+![Image 3](static/img3.png)
+![Image 4](static/img4.png)
 
 ---
 
