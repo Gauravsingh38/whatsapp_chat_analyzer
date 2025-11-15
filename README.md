@@ -10,11 +10,11 @@ Built using **Python**, **pandas**, **Streamlit**, **matplotlib**, **seaborn**, 
 ## 🚀 Live Demo Links
 
 ### ✅ WhatsApp Chat Analyzer – 12-Hour Format Version
-- **Live App:** [https://whatsapp-12hr-analyzer.herokuapp.com]([https://whatsapp-12hr-analyzer.herokuapp.com](https://whatsapp-chat-analyzer-12hr-25c00044f8de.herokuapp.com)  
+- **Live App:** [https://whatsapp-12hr-analyzer.herokuapp.com](https://whatsapp-chat-analyzer-12hr-25c00044f8de.herokuapp.com/)  
 - **Source Code:** [GitHub Repository](https://github.com/Gauravsingh38/whatsapp_chat_analyzer)
 
 ### ✅ WhatsApp Chat Analyzer – 24-Hour Format Version
-- **Live App:** [https://whatsapp-24hr-analyzer.herokuapp.com](https://whatsapp-24hr-analyzer.herokuapp.com)  
+- **Live App:** [https://whatsapp-24hr-analyzer.herokuapp.com](https://whatsapp-chat-analyzer-24hr-30d875862fb3.herokuapp.com/)  
 - **Source Code:** [GitHub Repository](https://github.com/Gauravsingh38/whatsapp_chat_analyzer)
 
 ---
